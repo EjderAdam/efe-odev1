@@ -1,0 +1,28 @@
+asal sayilar hakkinda asagidaki bolumlerden olusan bir html sayfasi hazirla
+
+1. Kapak
+
+2. Önsöz
+
+Ödevin seçilme nedeni
+
+Ödevden beklentiler
+
+3. Ara kontrol
+
+• Taslak çalışmalar
+
+4. Proje günlüğü/takvimi
+
+5. Rapor
+
+Ürün veya modele ait bilgiler
+
+6. Sonsöz
+
+• Ödev hazırlığı sürecinde yaşadıklarınız
+
+• Ödevin kişisel gelişiminize, bakış açınıza katkısı
+
+7. Kaynakça (Yararlandığınız tüm kaynakları belirtmelisiniz.)
+
